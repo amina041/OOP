@@ -25,5 +25,5 @@ int main() {
 
     subsets(arr, 3, 0, result, 0);
 
-    return 0;
+    return 0; 
 }
